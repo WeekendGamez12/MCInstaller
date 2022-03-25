@@ -1,0 +1,18 @@
+{
+  "name": "DreamFighter",
+  "short_name": "DreamFighter",
+  "icons": [{
+    "src": "images/MCIco128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/MCIco512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "brown",
+  "theme_color": "brown"
+}
