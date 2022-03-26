@@ -8,7 +8,7 @@ var cacheArray = [
 var cacheName='mcinstallercache';
 
 self.addEventListener('install', (e)=>{
-  alert('test');
+ 
   e.waitUntil(
     caches.open(cacheName).then(function(cache) {
       return cache.addAll(cacheArray);
