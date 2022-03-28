@@ -2,11 +2,11 @@
   "name": "DreamFighter",
   "short_name": "DreamFighter",
   "icons": [{
-    "src": "images/MCIco128.png",
+    "src": "MCIco128.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "images/MCico512.png",
+      "src": "MCico512.png",
       "sizes": "512x512",
       "type": "image/png"
     }],
